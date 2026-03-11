@@ -166,13 +166,8 @@ Successfully completed an intensive Data Science training program covering Pytho
 [Open Certificate](https://drive.google.com/file/d/10y2lXHUmCc8hX7UF5BHoiY7KcM0eHhh0/view?usp=sharing)
 ---
 
-# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chanda9528&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanda9528&layout=compact)
-
----
 
 # 📫 Connect With Me
 
