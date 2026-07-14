@@ -102,7 +102,7 @@ This project focuses on detecting brain tumors from MRI images using Deep Learni
 🔗 **Project Link**  
 [View Project](https://github.com/Chanda9528/Brain_Tumor_MRI_Image_Classificaton-using-ML-and-Deep-Learning.)
 
-Technologies Used  
+# Technologies Used:  
 Python  
 TensorFlow  
 OpenCV  
@@ -117,7 +117,7 @@ This project performs sentiment classification on movie reviews using Natural La
 🔗 **Project Link**  
 [View Project](https://github.com/Chanda9528/Sentiment-Analysis-using-LSTM-AWD-LSTM-ULMFiT-BERT-)
 
-Libraries  
+# Libraries : 
 PyTorch  
 FastAI  
 Transformers  
@@ -131,7 +131,7 @@ This project aims to predict the price of diamonds based on multiple physical an
 🔗 **Project Link**  
 [View Project](https://github.com/Chanda9528/-Diamond-Dynamics-Price-Prediction-and-Market-Segmentation-)
 
-Technologies  
+# Technologies used: 
 Python  
 Scikit-learn  
 Pandas  
@@ -146,7 +146,7 @@ ChocoCrunch Analytics is a Python-based data analytics project that analyzes cho
 🔗 **Project Link**  
 [View Project](https://github.com/Chanda9528/chococrunch-analytics)
 
-Technologies Used  
+# Technologies Used  :
 Python  
 MySQL  
 Streamlit  
@@ -163,7 +163,7 @@ BuyBuddy is a full-stack intelligent grocery recommendation system designed for 
 🔗 **Project Link**  
 [View Project](https://github.com/Chanda9528/buybuddy-grocery-recommendation)
 
-Technologies Used  
+# Technologies Used : 
 Python  
 Flask  
 PostgreSQL  
@@ -182,7 +182,7 @@ This project integrates the Harvard Art Museums API to collect and analyze artwo
 🔗 **Project Link**  
 [View Project](https://github.com/Chanda9528/harvard-s_api_collections)
 
-Technologies Used  
+# Technologies Used  :
 Python  
 API Integration  
 MySQL  
