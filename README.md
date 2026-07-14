@@ -9,15 +9,18 @@
 
 # 🚀 About Me
 
+An aspiring Machine Learning and Data Science enthusiast passionate about building intelligent machine learning models to solve real-world problems. Skilled in Python, Machine Learning, Deep Learning, Natural Language Processing (NLP), SQL, and Data Analytics, with hands-on experience in data preprocessing, feature engineering, model development, model training, evaluation, and optimization. Continuously enhancing my expertise by building practical machine learning projects and applying data-driven approaches to solve real-world challenges.
 
-An enthusiastic Machine Learning and Data Science enthusiast passionate about building intelligent machine learning models to solve real-world problems. Skilled in Python, Machine Learning, Deep Learning, Natural Language Processing (NLP), SQL, and Data Analytics, I enjoy working on data preprocessing, feature engineering, model development, evaluation, and optimization. I continuously enhance my skills by building practical ML projects and exploring advanced AI techniques.
+
 ---
 
 # 🛠 Skills
 
 ### Programming Languages
 Python  
-C++,Html,CSS
+C++
+Html
+CSS
 
 ### Database
 MySQL
