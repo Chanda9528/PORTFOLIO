@@ -208,10 +208,13 @@ Successfully completed an intensive Data Science training program covering Pytho
 # 📫 Connect With Me
 
 📧 Email  
-chandamishra9528@gmail.com  
+chandamishra9528@gmail.com 
+
+💻 GitHub  
+https://github.com/Chanda9528
+
 
 🔗 LinkedIn  
 https://linkedin.com/in/chandamishra593  
 
-💻 GitHub  
-https://github.com/Chanda9528
+
