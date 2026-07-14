@@ -10,44 +10,76 @@
 # 🚀 About Me
 
 
-I am a Computer Science graduate with a strong interest in Data Science, Machine Learning, and Artificial Intelligence. I enjoy working with data to discover meaningful insights and building machine learning models that solve real-world problems. Through my academic projects and hands-on practice, I have developed experience in data analysis, model development, and data-driven problem solving. I am continuously learning new technologies and improving my skills to build intelligent and impactful AI solutions.
-
+An enthusiastic Machine Learning and Data Science enthusiast passionate about building intelligent machine learning models to solve real-world problems. Skilled in Python, Machine Learning, Deep Learning, Natural Language Processing (NLP), SQL, and Data Analytics, I enjoy working on data preprocessing, feature engineering, model development, evaluation, and optimization. I continuously enhance my skills by building practical ML projects and exploring advanced AI techniques.
 ---
 
 # 🛠 Skills
 
-### Programming
+### Programming Languages
 Python  
-C++  
-C  
-HTML  
-CSS  
+C++,Html,CSS
+
+### Database
+MySQL
 
 ### Data Science
-Data Cleaning  
-Data Transformation  
+Data Collection
+Data Cleaning
+Data Preprocessing
 Exploratory Data Analysis (EDA)
+Data Visualization
+Statistical Analysis
+Feature Engineering
+Feature Selection
+Data Wrangling
+Outlier Detection
+Missing Value Handling
+Data Transformation
+Data Interpretation
+Business Insights
 
 ### Machine Learning
-Supervised Learning  
-Unsupervised Learning  
+Supervised Learning Algorithms
+Unsupervised Learning Algorithms
 Model Training  
+Model Building
 Model Evaluation  
 
 ### Deep Learning
-CNN  
-RNN  
-Transfer Learning  
+Artificial Neural Networks (ANN)
+Convolutional Neural Networks (CNN)
+Recurrent Neural Networks (RNN)
+Transfer Learning
+Long Short-Term Memory (LSTM)
+Transformers
+ 
+### Natural Language Processing (NLP)
+Text Preprocessing
+Tokenization
+Stopword Removal
+Stemming
+Lemmatization
+Regular Expressions (Regex)
+Part-of-Speech (POS) Tagging
+Named Entity Recognition (NER)
+Text Vectorization (BoW, TF-IDF)
+Word Embeddings (Word2Vec, GloVe)
+Text Classification
+Sentiment Analysis
+Transformer-based Models (BERT)
 
 ### Libraries
-Pandas  
-NumPy  
-Scikit-learn  
-TensorFlow  
-PyTorch  
-Matplotlib  
-Seaborn  
-OpenCV  
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn
+TensorFlow
+Keras
+PyTorch
+OpenCV
+NLTK
+spaCy
 
 ### Tools
 Git  
