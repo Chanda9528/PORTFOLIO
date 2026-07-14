@@ -1,6 +1,6 @@
 # Hi 👋 I'm Chanda Mishra
 
-🎓 B.Tech Computer Science Engineer-Batch 2025 
+🎓 B.Tech in Computer Science Engineering | Batch of 2025
 
 📊 Data Science & Machine Learning Enthusiast  
 
