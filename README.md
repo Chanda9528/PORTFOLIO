@@ -26,8 +26,8 @@ CSS
 MySQL
 
 ### Data Science
-Data Collection
-Data Cleaning
+- Data Collection
+- Data Cleaning
 Data Preprocessing
 Exploratory Data Analysis (EDA)
 Data Visualization
