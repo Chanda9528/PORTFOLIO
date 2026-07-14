@@ -17,79 +17,79 @@ An aspiring Machine Learning and Data Science enthusiast passionate about buildi
 # 🛠 Skills
 
 ### Programming Languages
-Python  
-C++
-Html
-CSS
+- Python  
+- C++
+- Html
+- CSS
 
 ### Database
-MySQL
+- MySQL
 
 ### Data Science
 - Data Collection
 - Data Cleaning
-Data Preprocessing
-Exploratory Data Analysis (EDA)
-Data Visualization
-Statistical Analysis
-Feature Engineering
-Feature Selection
-Data Wrangling
-Outlier Detection
-Missing Value Handling
-Data Transformation
-Data Interpretation
-Business Insights
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Statistical Analysis
+- Feature Engineering
+- Feature Selection
+- Data Wrangling
+- Outlier Detection
+- Missing Value Handling
+- Data Transformation
+- Data Interpretation
+- Business Insights
 
 ### Machine Learning
-Supervised Learning Algorithms
-Unsupervised Learning Algorithms
-Model Training  
-Model Building
-Model Evaluation  
+- Supervised Learning Algorithms
+- Unsupervised Learning Algorithms
+- Model Training  
+- Model Building
+- Model Evaluation  
 
 ### Deep Learning
-Artificial Neural Networks (ANN)
-Convolutional Neural Networks (CNN)
-Recurrent Neural Networks (RNN)
-Transfer Learning
-Long Short-Term Memory (LSTM)
-Transformers
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)
+- Transfer Learning
+- Long Short-Term Memory (LSTM)
+- Transformers
  
 ### Natural Language Processing (NLP)
-Text Preprocessing
-Tokenization
-Stopword Removal
-Stemming
-Lemmatization
-Regular Expressions (Regex)
-Part-of-Speech (POS) Tagging
-Named Entity Recognition (NER)
-Text Vectorization (BoW, TF-IDF)
-Word Embeddings (Word2Vec, GloVe)
-Text Classification
-Sentiment Analysis
-Transformer-based Models (BERT)
+- Text Preprocessing
+- Tokenization
+- Stopword Removal
+- Stemming
+- Lemmatization
+- Regular Expressions (Regex)
+- Part-of-Speech (POS) Tagging
+- Named Entity Recognition (NER)
+- Text Vectorization (BoW, TF-IDF)
+- Word Embeddings (Word2Vec, GloVe)
+- Text Classification
+- Sentiment Analysis
+- Transformer-based Models (BERT)
 
 ### Libraries
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Scikit-learn
-TensorFlow
-Keras
-PyTorch
-OpenCV
-NLTK
-spaCy
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- TensorFlow
+- Keras
+- PyTorch
+- OpenCV
+- NLTK
+- spaCy
 
 ### Tools
-Git  
-GitHub  
-VS Code  
-Power BI  
-Streamlit  
+- Git  
+- GitHub  
+- VS Code  
+- Power BI  
+- Streamlit  
 
 ---
 
